@@ -2567,7 +2567,7 @@ textarea.w-select {
 .hero-bg-03 {
     opacity: 0;
     background-image: url("hero/66d1379c8b0b0b3caa4eff78_DSCF2764%20Hero%20BG.jpg");
-    background-position: 100%;
+    background-position: 50%;
     background-size: cover;
     height: 100%;
     position: absolute;
@@ -2577,7 +2577,7 @@ textarea.w-select {
 .hero-fg-03 {
     opacity: 0;
     background-image: url("hero/66e25fb9fbf0b36112af291b_DSCF2764%20Hero.png");
-    background-position: 100%;
+    background-position: 50%;
     background-size: cover;
     height: 100%;
     position: absolute;
